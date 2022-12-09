@@ -1,0 +1,13 @@
+F:\C# ejercicicios\FormativaN2\FormativaN2\bin\Debug\netcoreapp3.1\FormativaN2.exe
+F:\C# ejercicicios\FormativaN2\FormativaN2\bin\Debug\netcoreapp3.1\FormativaN2.deps.json
+F:\C# ejercicicios\FormativaN2\FormativaN2\bin\Debug\netcoreapp3.1\FormativaN2.runtimeconfig.json
+F:\C# ejercicicios\FormativaN2\FormativaN2\bin\Debug\netcoreapp3.1\FormativaN2.runtimeconfig.dev.json
+F:\C# ejercicicios\FormativaN2\FormativaN2\bin\Debug\netcoreapp3.1\FormativaN2.dll
+F:\C# ejercicicios\FormativaN2\FormativaN2\bin\Debug\netcoreapp3.1\FormativaN2.pdb
+F:\C# ejercicicios\FormativaN2\FormativaN2\obj\Debug\netcoreapp3.1\FormativaN2.csprojAssemblyReference.cache
+F:\C# ejercicicios\FormativaN2\FormativaN2\obj\Debug\netcoreapp3.1\FormativaN2.csproj.CoreCompileInputs.cache
+F:\C# ejercicicios\FormativaN2\FormativaN2\obj\Debug\netcoreapp3.1\FormativaN2.AssemblyInfoInputs.cache
+F:\C# ejercicicios\FormativaN2\FormativaN2\obj\Debug\netcoreapp3.1\FormativaN2.AssemblyInfo.cs
+F:\C# ejercicicios\FormativaN2\FormativaN2\obj\Debug\netcoreapp3.1\FormativaN2.dll
+F:\C# ejercicicios\FormativaN2\FormativaN2\obj\Debug\netcoreapp3.1\FormativaN2.pdb
+F:\C# ejercicicios\FormativaN2\FormativaN2\obj\Debug\netcoreapp3.1\FormativaN2.genruntimeconfig.cache
